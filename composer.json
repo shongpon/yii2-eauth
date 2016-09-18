@@ -1,5 +1,5 @@
 {
-	"name": "nodge/yii2-eauth-ega-th",
+	"name": "shongpon/yii2-eauth-ega-th",
 	"description": "Yii2 EAuth Extension. EAuth allows to authenticate users with accounts on other websites (Google, Facebook, Twitter, etc).",
 	"keywords": ["yii2", "extension", "eauth", "openid", "oauth", "authentication", "ega"],
 	"homepage": "https://github.com/shongpon/yii2-eauth",
